@@ -1,0 +1,3 @@
+http://busterhtml.mbkip3ms9u-e92498n216kr.p.temp-site.link/css/ajax-loader.gif
+
+Cannot download image; STATUS_CODE_404
